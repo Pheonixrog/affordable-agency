@@ -6,7 +6,7 @@ import { motion } from 'framer-motion'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
-import { AlertCircle, CheckCircle, DollarSign, Euro, Users, Zap } from 'lucide-react'
+import { AlertCircle, CheckCircle, DollarSign,  Users, Zap } from 'lucide-react'
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert"
 
 export default function Home() {
