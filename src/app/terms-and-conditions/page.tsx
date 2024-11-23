@@ -56,7 +56,7 @@ and to prevent spamming and scams, we charge fees from both parties before makin
                   <AccordionItem value="commencement">
                     <AccordionTrigger>Commencement Date</AccordionTrigger>
                     <AccordionContent>
-                      <p>The Agreement between Agency ApS and the Client comes into force when the Client chooses a subscription and invoice method on "Account" on the Agency360 dashboard, and then enters the required invoice data. The Subscription Agreement is binding once the Client has completed payment.</p>
+                      <p>The Agreement between Agency ApS and the Client comes into force when the Client chooses a subscription and invoice method on &quot;Account&quot; on the Agency360 dashboard, and then enters the required invoice data. The Subscription Agreement is binding once the Client has completed payment.</p>
                       <p className="mt-2">The Agreement is binding for both Parties until terminated at notice in accordance with the termination conditions.</p>
                     </AccordionContent>
                   </AccordionItem>
