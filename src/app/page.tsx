@@ -41,7 +41,7 @@ export default function Home() {
             <Card>
               <CardHeader>
                 <Users className="w-10 h-10 mb-2 text-primary" />
-                <CardTitle>700+ Clients</CardTitle>
+                <CardTitle>15000+ Clients</CardTitle>
                 <CardDescription>Trust us for their creative needs</CardDescription>
               </CardHeader>
             </Card>
