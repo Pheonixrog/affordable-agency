@@ -1,7 +1,3 @@
-import { Button } from './ui/button'
-import { Input } from './ui/input'
-import { Mail } from 'lucide-react'
-
 export function Footer() {
   return (
     <footer className="bg-muted text-muted-foreground py-12">
